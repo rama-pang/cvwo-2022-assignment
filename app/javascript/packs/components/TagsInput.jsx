@@ -132,8 +132,8 @@ class TagsInput extends React.Component {
             />
             {this.state.isTagError == '' ? (
               <FormHelperText>
-              Enter tag.
-            </FormHelperText>
+                Press enter key to add tag.
+              </FormHelperText>
             ) : (
               <FormErrorMessage>
                 {this.state.isTagError}
