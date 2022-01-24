@@ -1,4 +1,4 @@
-# CVWO 2022 Assignment
+# CVWO 2022 Assignment - [Task Management App](https://arcane-sierra-42332.herokuapp.com/)
 
 ## About This Project
 
@@ -12,7 +12,7 @@ This project is an assignment for NUS Computing for Voluntary Welfare Organisati
 
 ## Table of Contents
 
-- [CVWO 2022 Assignment](#cvwo-2022-assignment)
+- [CVWO 2022 Assignment - Task Management App](#cvwo-2022-assignment---task-management-app)
   - [About This Project](#about-this-project)
   - [Table of Contents](#table-of-contents)
   - [Local Installation](#local-installation)
